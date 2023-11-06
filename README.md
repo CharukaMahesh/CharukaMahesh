@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharukaMahesh
+- 👋 Hi, I’m Charuka Mahesh
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning Javascript And Python
 - 💞️ I’m From Sri Lanka 🇱🇰
