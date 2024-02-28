@@ -4,7 +4,7 @@
 █-----╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝-----█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-<img src="_e0744389-9e42-4cf4-bac6-0315f0e05eb9.jpeg">
+<img src="_e0744389-9e42-4cf4-bac6-0315f0e05eb9.jpeg" width="300" height="300">
 
 - 👋 Hi, I’m Charuka Mahesh
 - 👀 I’m interested in Web Design
