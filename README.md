@@ -24,7 +24,6 @@ Welcome to my GitHub! 👋 I'm passionate about web design and hacking, constant
 ## Skills
 
 - Frontend Development: HTML5, CSS3, JavaScript
-- Backend Development: [Frameworks or languages you use]
 - Design Tools: Adobe Creative Suite, Sketch, Figma
 - 💻 Currently Learning: Cyber Security at ISC2
 
