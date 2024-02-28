@@ -1,9 +1,5 @@
 
 
-█-----╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗-----█
-█-----║║║╠─║─║─║║║║║╠─-----█
-█-----╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝-----█
-
 
 <img src="_e0744389-9e42-4cf4-bac6-0315f0e05eb9.jpeg" width="300" height="300">
 
@@ -23,7 +19,6 @@ Welcome to my GitHub! 👋 I'm passionate about web design and hacking, constant
 - 🌐 Portfolio: [Your Portfolio Website Link]
 - ✉️ Email: [charukamahesh172@gmail.com](mailto:charukamahesh172@gmail.com)
 - 📱 Connect with me on Facebook
-- 
 ## Skills
 
 - Frontend Development: HTML5, CSS3, JavaScript
