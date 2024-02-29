@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Charuka Mahesh
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Javascript And Python
+- 🌱 I’m currently learning cybersecurity && backend web design
 - 💞️ I’m From Sri Lanka 🇱🇰
 - 📫 How to reach me charukamahesh172@gmail.com
 
