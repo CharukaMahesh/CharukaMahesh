@@ -1,7 +1,7 @@
 
 
 
-<img src="499b4329-c9b2-4aa7-9682-ff74ef9e6195.jpeg" width="300" height="300">
+<img src="_499b4329-c9b2-4aa7-9682-ff74ef9e6195.jpeg" width="300" height="300">
 
 - 👋 Hi, I’m Charuka Mahesh
 - 👀 I’m interested in Web Design
