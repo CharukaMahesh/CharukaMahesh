@@ -9,25 +9,20 @@
 - 💞️ I’m From Sri Lanka 🇱🇰
 - 📫 How to reach me charukamahesh172@gmail.com
 
-### 🎨 Web Designer | 🕵️‍♂️ Hacker
+### 🎨 Web Designer |
 
-Welcome to my GitHub! 👋 I'm passionate about web design and hacking, constantly exploring new technologies and pushing the boundaries of what's possible.
+Welcome to my GitHub! 👋 I'm passionate about web design. constantly exploring new technologies and pushing the boundaries of what's possible.
 
 ## About Me
-- 💻 Web designer with a focus on [insert your expertise].
+- 💻 Web designer with a focus on 
 - 🛠️ Hacking enthusiast, always learning and experimenting.
-- 🌐 Portfolio: [Your Portfolio Website Link]
+- 🌐 Portfolio: [Comming Soon]
 - ✉️ Email: [charukamahesh172@gmail.com](mailto:charukamahesh172@gmail.com)
-- 📱 Connect with me on Facebook
 ## Skills
 
 - Frontend Development: HTML5, CSS3, JavaScript
 - Design Tools: Adobe Creative Suite, Sketch, Figma
 - 💻 Currently Learning: Cyber Security at ISC2
-
-## Achievements
-- 🏆 [Certification Name](link) - Issuing organization, year.
-- 🥇 [Award Name](link) - Description of the award, year.
 
 ## Let's Collaborate!
 I'm always open to collaborations and interesting
