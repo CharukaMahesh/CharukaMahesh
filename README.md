@@ -1,10 +1,10 @@
 
 
 
-<img src="_499b4329-c9b2-4aa7-9682-ff74ef9e6195.jpeg" width="300" height="300">
-
+<img src="20240815_155621.jpg" width="300" height="300">
+-Frontend Developer🏃
 - 👋 Hi, I’m Charuka Mahesh
-- 👀 I’m interested in Web Design
+- 👀 I’m interested in Frontend Web Design
 - 🌱 I’m currently learning cybersecurity && backend web design
 - 💞️ I’m From Sri Lanka 🇱🇰
 - 📫 How to reach me charukamahesh172@gmail.com
