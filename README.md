@@ -27,6 +27,8 @@ Welcome to my GitHub! 👋 I'm passionate about web design. constantly exploring
 ## Let's Collaborate!
 I'm always open to collaborations and interesting
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharukaMahesh&show_icons=true&theme=radical)
+
 <!---
 CharukaMahesh/CharukaMahesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
