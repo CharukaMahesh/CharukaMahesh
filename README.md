@@ -34,6 +34,8 @@ I'm always open to collaborations and interesting
 
 [![GitHub followers](https://img.shields.io/github/followers/CharukaMahesh?label=Followers&style=social)](https://github.com/YourUsername?tab=followers)
 
+[![GitHub followers](https://img.shields.io/github/followers/CharukaMahesh?label=Stars&style=social)](https://github.com/YourUsername?tab=stars)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharukaMahesh&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharukaMahesh&layout=compact&theme=radical)
