@@ -32,9 +32,10 @@ Welcome to my GitHub! 👋 I'm passionate about web design. constantly exploring
 ## Let's Collaborate!
 I'm always open to collaborations and interesting
 
-[![GitHub followers](https://img.shields.io/github/followers/CharukaMahesh?label=Followers&style=social)](https://github.com/YourUsername?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/CharukaMahesh?label=Followers&style=social)](https://github.com/CharukaMahesh?tab=followers)
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername?label=Total%20Stars&style=social)](https://github.com/YourUsername?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/CharukaMahesh?label=Total%20Stars&style=social)](https://github.com/CharukaMahesh?tab=repositories)
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharukaMahesh&show_icons=true&theme=radical)
 
