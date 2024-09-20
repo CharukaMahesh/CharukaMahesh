@@ -31,7 +31,12 @@ I'm always open to collaborations and interesting
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharukaMahesh&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharukaMahesh&show_icons=true&theme=radical)
+## Connect With Me:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 
 <!---
 CharukaMahesh/CharukaMahesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
