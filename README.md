@@ -1,4 +1,6 @@
-## Hi there 👋
+## ʜɪ ᴛʜᴇᴛᴇ 👋
+
+<img src="img/img/AI picture - virtual reality_.jpeg">
 
 <!--
 **CharukaMahesh/CharukaMahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
