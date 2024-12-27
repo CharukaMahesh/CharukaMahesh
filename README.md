@@ -2,6 +2,12 @@
 
 <img src="img/AI picture - virtual reality_.jpeg">
 
+<style>
+  p {
+    border: 1px solid black;
+  }
+</style>
+
 <p>ʜᴇʟʟᴏ, ɪ'ᴍ ᴄʜᴀʀᴜᴋᴀ ᴍᴀʜᴇꜱʜ ꜰʀᴏᴍ ꜱʀɪ ʟᴀɴᴋᴀ 🇱🇰 🎓 ᴄᴏᴍᴍᴇʀᴄᴇ sᴛᴜᴅᴇɴᴛ 📚 | 💻 ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ & ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴇɴᴛʜᴜsɪᴀsᴛ ⚙️ | 🏃‍♂️ ᴀᴛʜʟᴇᴛᴇ ᴡɪᴛʜ dɪsᴄɪᴘʟɪɴᴇ🧠</p>
 
 - 🌱 I’m currently learning python && mysql
