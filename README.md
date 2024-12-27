@@ -4,6 +4,8 @@
 
 <p>ʜᴇʟʟᴏ, ɪ'ᴍ ᴄʜᴀʀᴜᴋᴀ ᴍᴀʜᴇꜱʜ ꜰʀᴏᴍ ꜱʀɪ ʟᴀɴᴋᴀ 🇱🇰 🎓 ᴄᴏᴍᴍᴇʀᴄᴇ sᴛᴜᴅᴇɴᴛ 📚 | 💻 ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ & ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴇɴᴛʜᴜsɪᴀsᴛ ⚙️ | 🏃‍♂️ ᴀᴛʜʟᴇᴛᴇ ᴡɪᴛʜ dɪsᴄɪᴘʟɪɴᴇ🧠</p>
 
+- 🌱 I’m currently learning python && mysql
+
 <!--
 **CharukaMahesh/CharukaMahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
