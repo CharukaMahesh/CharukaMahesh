@@ -106,7 +106,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/DarkByteX">
+  <a href="https://github.com/CyberRoninX1">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CyberRoninX1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CyberRoninX1&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   </a>
@@ -121,7 +121,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/DarkByteX">
+  <a href="https://github.com/CyberRoninX1">
     <img src="https://activity-graph.herokuapp.com/graph?username=DarkByteX&custom_title=DarkByteX's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
   </a>
 </div>
