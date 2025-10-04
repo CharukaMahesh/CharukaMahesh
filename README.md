@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DarkByteX!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CyberRoninX1!;" />
 </h1>
 
 <div align="center">
@@ -209,7 +209,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarkByteX&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberRoninX1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 <br/>
@@ -223,7 +223,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/DarkByteX/DarkByteX/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/CyberRoninX1/DarkByteX/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
