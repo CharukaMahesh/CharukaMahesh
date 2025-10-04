@@ -107,15 +107,15 @@
 
 <div align="center">
   <a href="https://github.com/DarkByteX">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarkByteX&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DarkByteX&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CyberRoninX1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CyberRoninX1&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkByteX&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberRoninX1&theme=radical&hide_border=true" />
 </div>
 
 <br/>
