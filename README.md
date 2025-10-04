@@ -83,20 +83,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## 🎯 <b>Legendary Missions</b>
-
-<div align="center">
-
-### **⚡ Active Operations**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=CyberSec-Toolkit&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/CyberSec-Toolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=OSINT-Framework&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/OSINT-Framework)
-
-### **🛡️ Defense Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=Network-Sentinel&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/Network-Sentinel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=Python-Pentest-Tools&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/Python-Pentest-Tools)
-
-</div>
-
 <br/>
 
 <div align="center">
