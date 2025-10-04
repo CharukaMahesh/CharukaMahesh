@@ -121,10 +121,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-🎵 <b>Ronin's Battle Theme</b>
-<div align="center">
-https://novatorem-coral-nine-46.vercel.app/api/spotify?background_color=0d1117&border_color=00ff00
-
 </div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> </div>
 
