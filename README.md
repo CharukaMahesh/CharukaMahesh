@@ -1,34 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CyberRoninX1!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=⚡+CYBER+RONIN+X1+⚡;🔥+Digital+Samurai+🔥;🛡️+White+Hat+Hacker+🛡️;💻+Code+Warrior+💻" alt="CyberRoninX1" />
 </h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&animation=blinking&text=CyberRoninX1&fontSize=50&fontAlignY=40&desc=Digital%20Warrior%20%7C%20Code%20Samurai&descAlignY=65" />
 </div>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  A Passionate Cybersecurity Enthusiast & Python Developer from the Digital Shadows
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I'm currently working on **Advanced OSINT Tools & Security Research**
- 
- 🌱 I'm currently learning **Malware Analysis & Reverse Engineering**
- 
- 👯 I'm looking to collaborate on **Cybersecurity Projects**
- 
- 🤔 I'm looking for help with **Blockchain Security**
- 
- 💬 Ask me about **Python, Cybersecurity, OSINT, or any tech-related stuff**
- 
- 📫 How to reach me **DarkByteX@protonmail.com**
- 
- ⚡ Fun fact **I speak in binary and dream in code**
+  
+  ![Cyber Security](https://img.shields.io/badge/-CYBER%20SECURITY-00FF00?style=for-the-badge&logo=icloud&logoColor=black)
+  ![Python](https://img.shields.io/badge/-PYTHON%20SORCERER-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![OSINT](https://img.shields.io/badge/-OSINT%20HUNTER-FF6B6B?style=for-the-badge&logo=eye&logoColor=white)
+  ![Ethical Hacker](https://img.shields.io/badge/-ETHICAL%20HACKER-8A2BE2?style=for-the-badge&logo=key&logoColor=white)
 
 </div>
 
@@ -38,62 +23,35 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
+## 🗡️ <b>Cyber Dojo Arsenal</b>
 
-<br/>
+<div align="center">
 
-<p align="center">
+### **⚔️ Primary Weapons**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-- **Languages**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Bash](https://img.shields.io/badge/Bash%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+### **🛡️ Defense Systems**
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge)
 
-<br>   
-    
-- **Cybersecurity**:
+### **🔮 Digital Sorcery**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-    ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-    ![Metasploit](https://img.shields.io/badge/Metasploit-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white)
-    ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-    ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+### **⚒️ Crafting Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br>
-    
-- **Front-End Development**:
-
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<br>
-
-- **Cloud & Hosting**:
-
-    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-    
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-</p>
+</div>
 
 <br/>
 
@@ -101,62 +59,21 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
-
-<br/>
+## 📊 <b>Ronin Battle Stats</b>
 
 <div align="center">
+  
   <a href="https://github.com/CyberRoninX1">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CyberRoninX1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CyberRoninX1&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CyberRoninX1&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberRoninX1&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
   </a>
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberRoninX1&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
+  
   <a href="https://github.com/CyberRoninX1">
-    <img src="https://activity-graph.herokuapp.com/graph?username=DarkByteX&custom_title=DarkByteX's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberRoninX1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=CyberRoninX1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Let's Connect!</b>
-
-<br/>
-
-<div align="left">
-
-<a href="https://twitter.com/DarkByteX" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://linkedin.com/in/DarkByteX" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/DarkByteX" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://discord.gg/DarkByteX" target="_blank">
-<img src=https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/DarkByteX" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 
 </div>
 
@@ -166,35 +83,17 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Random Dev Quote</b>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> <b>Recent Projects</b>
-
-<br/>
+## 🎯 <b>Legendary Missions</b>
 
 <div align="center">
 
-### 🔥 Featured Projects
+### **⚡ Active Operations**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=CyberSec-Toolkit&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/CyberSec-Toolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=OSINT-Framework&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/OSINT-Framework)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkByteX&repo=OSINT-Toolkit&theme=radical&hide_border=true)](https://github.com/DarkByteX/OSINT-Toolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkByteX&repo=CyberSec-Tools&theme=radical&hide_border=true)](https://github.com/DarkByteX/CyberSec-Tools)
-
-### ⚡ Recent Contributions
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkByteX&repo=Network-Scanner&theme=radical&hide_border=true)](https://github.com/DarkByteX/Network-Scanner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarkByteX&repo=Python-Automation&theme=radical&hide_border=true)](https://github.com/DarkByteX/Python-Automation)
+### **🛡️ Defense Projects**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=Network-Sentinel&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/Network-Sentinel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberRoninX1&repo=Python-Pentest-Tools&theme=radical&show_owner=true)](https://github.com/CyberRoninX1/Python-Pentest-Tools)
 
 </div>
 
@@ -204,12 +103,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> <b>Trophies & Achievements</b>
-
-<br/>
+## 🌐 <b>Digital Footprint</b>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberRoninX1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CyberRoninX1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CyberRoninX1)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CyberRoninX1)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CyberRoninX1)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:CyberRoninX1@protonmail.com)
+
 </div>
 
 <br/>
@@ -218,12 +121,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## 🐍 <b>Watch my commits get eaten by the snake!</b>
-
-<br/>
+## 🐍 <b>Ronin's Path</b>
 
 <div align="center">
-  <img src="https://github.com/CyberRoninX1/DarkByteX/blob/output/github-contribution-grid-snake.svg" />
+  
+  ![Snake Animation](https://github.com/CyberRoninX1/CyberRoninX1/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 <br/>
@@ -232,16 +135,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## 📊 <b>This Week I Spent My Time On</b>
-
-<br/>
-
-<div align="center">
+## 📜 <b>Code Chronicles</b>
 
 <!--START_SECTION:waka-->
 ```text
-Python      12 hrs 30 mins  ████████████░░░░░░░░░   68.2%
-JavaScript  3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   17.8%
-Bash        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░    9.6%
-Markdown    45 mins         █░░░░░░░░░░░░░░░░░░░░    4.1%
-Other       3 mins          ░░░░░░░░░░░░░░░░░░░░░    0.3%
+Python       ████████████████████░░░░   85.2% 
+JavaScript   ██████░░░░░░░░░░░░░░░░░░   12.1%
+Bash         ██░░░░░░░░░░░░░░░░░░░░░░    2.3%
+Other        ░░░░░░░░░░░░░░░░░░░░░░░░    0.4%
